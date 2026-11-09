@@ -1,5 +1,6 @@
 ## 4.How do Generics work in TypeScript, and how do they help when working with asynchronous Promise<T> responses?
-ans:
+ans:Generics in TypeScript: Understanding Reusable Types and Asynchronous Promise\
+
 Generics type help us from  defining a specific type every time, we can use a placeholder like T. TypeScript assign the actual type when we use the function or type.
 Generics in TypeScript allow us to write reuseable and flexible code without defining a specific type every time. Instead of set a particular type, we can use a placeholder <T>. Typescript automatically set the actual type when we use the function, interface, or type. this helps us to maintain type safety while working with different type of data. 
 
